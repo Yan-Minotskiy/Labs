@@ -70,7 +70,7 @@
 ### suzen19
 Используемые команды:
 - **mkdir** – команда для создания нового каталога
-  -**-f** - режим для создания подкаталогов в каталоге
+  - **-f** - режим для создания подкаталогов в каталоге
 ![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/19.png)
 Ключ для следующего таска: K3kzZUJWMHUvZHFqRnlUZ2NpZ3V2SkZYWjl2ZUl5SElpZkZ3NG0wQmpVST0K (не работает)
 
@@ -79,7 +79,7 @@
 ### suzen20
 Используемые команды:
 - **rm** – команда для удаления
-  -**-rf** - совершить рекурсивный обход всех директорий без выдачи предупреждений
+  - **-rf** - совершить рекурсивный обход всех директорий без выдачи предупреждений
 ![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/20.png)
 Ключ для следующего таска: YW1pZWhpaW0yb2h5NW9vRjZlaXcK
 
