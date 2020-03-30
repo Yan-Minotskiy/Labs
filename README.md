@@ -23,6 +23,12 @@
 
 ------------
 
+### suzen3
+Используемые команды:
+Ключ для следующего таска: Y284ZWlxdXVlMmllTDNpZXBoNWUK
+
+------------
+
 ### suzen14
 Используемые команды:
 - **cd** – переход по директориям
@@ -36,6 +42,7 @@
 ### suzen15
 Используемые команды:
 - **pwd** – выводит в терминал путь к текущей папке
+
 ![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/15.png)
 Ключ для следующего таска: TWVlMXdvaDJ6YWVoZWoyamllNm8K
 
