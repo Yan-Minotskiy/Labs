@@ -14,5 +14,9 @@
 | Ctrl + Alt + T  | Запустить терминал |
 
 ![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/1.png)
+Ключ для следующего таска: ZGFpejZhaFJhZVNhZXhhaWJ1YWYK
+
+------------
 
 ### suzen2
+Используемые команды:
