@@ -20,3 +20,23 @@
 
 ### suzen2
 Используемые команды:
+
+------------
+
+### suzen14
+Используемые команды:
+- **cd** – переход по директориям
+- **clear** – очистка экрана
+![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/14.png)
+Ключ для следующего таска: d2FodmFoMWFlV2FpYmVlaG9vMmIK
+
+------------
+
+### suzen15
+Используемые команды:
+- **pwd** – выводит в терминал путь к текущей папке
+![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/15.png)
+Ключ для следующего таска: TWVlMXdvaDJ6YWVoZWoyamllNm8K
+
+------------
+
