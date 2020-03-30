@@ -13,6 +13,6 @@
 | Ctrl + D   | Завершение текущего процесса  |
 | Ctrl + Alt + T  | Запустить терминал |
 
-![](https://drive.google.com/open?id=1TCnIrFPJ1kfGpVXZCHyh1WHawXN5vWRI)
+![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/1.png)
 
 ### suzen2
