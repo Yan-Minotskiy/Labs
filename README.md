@@ -138,9 +138,11 @@
 
 ### suzen24
 Используемые команды:
+- **cp** - копирование файлов или директорий
+  - **-R** - означает включение всех подкаталогов и файлов в них 
 
 ![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/24.png)
-Ключ для следующего таска: 
+Ключ для следующего таска: YWVnaG9venVvejd2b292OHNvaEwK
 
 ------------
 
@@ -148,23 +150,27 @@
 Не использовал новые команды)
 
 ![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/25.png)
-Ключ для следующего таска: 
+Ключ для следующего таска: dGhlZThhcXVpZUNpTGFpdGhlZTkK
 
 ------------
 
 ### suzen26
-Используемые команды:
+В окне чтения файла, вызванного командой less можно осуществлять поиск с помощью \/
 
+\/FLAG дало результат:
 ![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/26.png)
-Ключ для следующего таска: 
+
+Ключ для следующего таска: WWVpc2gxYWlndXVrZWl5ZWloaWUK
 
 ------------
 
 ### suzen27
 Используемые команды:
+- **tail** - просмотр концовки файла
+  - **-f** - просматривать непрерывно
 
 ![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/27.png)
-Ключ для следующего таска: 
+Ключ для следующего таска: dGVlMUtleThhUXVvaDFnZTFiaWkK
 
 ------------
 
@@ -172,7 +178,7 @@
 Используемые команды:
 
 ![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/28.png)
-Ключ для следующего таска: 
+Ключ для следующего таска: ZWV4b1g1WnVkMm9oZnVjYWhkdTMK
 
 ------------
 
@@ -180,4 +186,4 @@
 Используемые команды:
 
 ![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/29.png)
-Ключ для следующего таска: 
+Ключ для следующего таска: dmFvbmcwcGFlMWlodUJvaFppZWQK
