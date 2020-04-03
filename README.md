@@ -21,7 +21,7 @@
 
 ### suzen2
 Используемые команды:
--  **cat *.txt** - просмотр всех файлов с форматом txt
+- **cat *.txt** - просмотр всех файлов с форматом txt
 -  **for i in /home/suzen/*; do cat $i; done;** - bash-скрипт, выводящий содержимое всех файлов в папке
 
 ![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/2.png)
