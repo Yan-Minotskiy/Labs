@@ -110,7 +110,8 @@
 
 ### suzen21
 Используемые команды:
-  
+- **touch** - команда для гинерации файлов или для изменения времени последнего взаимодействия с файлом
+
 ![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/21.png)
 Ключ для следующего таска: aWU0b29XdWxlaXBodXBpZWZveW8K
 
@@ -118,7 +119,10 @@
 
 ### suzen22
 Используемые команды:
-  
+-  **rm** – удаление файлов
+Использовались регулярные выражения:
+* означает любое количество символов на её месте, ? – один любой символ.
+
 ![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/22.png)
 Ключ для следующего таска: dXI2dXNhaDNvaFQxaWV2MGNobzgK
 
@@ -141,7 +145,7 @@
 ------------
 
 ### suzen25
-Используемые команды:
+Не использовал новые команды)
 
 ![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/25.png)
 Ключ для следующего таска: 
