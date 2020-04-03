@@ -21,11 +21,19 @@
 
 ### suzen2
 Используемые команды:
+-  **cat *.txt** - просмотр всех файлов с форматом txt
+-  **for i in /home/suzen/*; do cat $i; done;** - bash-скрипт, выводящий содержимое всех файлов в папке
+
+![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/2.png)
+Ключ для следующего таска: dGhlaWxpM2FoWm9odGFpM2VldzMK
 
 ------------
 
 ### suzen3
 Используемые команды:
+-  **while read -r l; do echo $l; done <-diary.txt-** - bash-скрипт, построчно читающий файл -diary.txt-
+
+![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/3.png)
 Ключ для следующего таска: Y284ZWlxdXVlMmllTDNpZXBoNWUK
 
 ------------
