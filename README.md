@@ -121,3 +121,59 @@
   
 ![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/22.png)
 Ключ для следующего таска: dXI2dXNhaDNvaFQxaWV2MGNobzgK
+
+------------
+
+### suzen23
+Используемые команды:
+
+![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/23.png)
+Ключ для следующего таска: 
+
+------------
+
+### suzen24
+Используемые команды:
+
+![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/24.png)
+Ключ для следующего таска: 
+
+------------
+
+### suzen25
+Используемые команды:
+
+![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/25.png)
+Ключ для следующего таска: 
+
+------------
+
+### suzen26
+Используемые команды:
+
+![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/26.png)
+Ключ для следующего таска: 
+
+------------
+
+### suzen27
+Используемые команды:
+
+![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/27.png)
+Ключ для следующего таска: 
+
+------------
+
+### suzen28
+Используемые команды:
+
+![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/28.png)
+Ключ для следующего таска: 
+
+------------
+
+### suzen29
+Используемые команды:
+
+![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/29.png)
+Ключ для следующего таска: 
