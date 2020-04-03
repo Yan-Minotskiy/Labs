@@ -130,6 +130,7 @@
 
 ### suzen23
 Используемые команды:
+- **mv** - перемещение и переименовывание файлов и каталогов
 
 ![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/23.png)
 Ключ для следующего таска: 
@@ -175,7 +176,9 @@
 ------------
 
 ### suzen28
-Используемые команды:
+Использовал перенаправление ввода в новый содаваемый файл.
+- **cat > diary << ENDOFFILE** - с помощью этой строки я могу вставить многострочный текст в создаваемый документ
+
 
 ![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/28.png)
 Ключ для следующего таска: ZWV4b1g1WnVkMm9oZnVjYWhkdTMK
@@ -183,7 +186,7 @@
 ------------
 
 ### suzen29
-Используемые команды:
+Использовал стрелки на клавиатуре для выбора последней используемой команды.
 
 ![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/29.png)
 Ключ для следующего таска: dmFvbmcwcGFlMWlodUJvaFppZWQK
