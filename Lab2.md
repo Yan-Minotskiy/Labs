@@ -127,7 +127,35 @@ C помощью команды `cat /proc/mdstat` я ознакомился с 
 
 ![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/2.21.png)
 
-Далее удаляем диск старого raid из Volume Group с помощью команды `vgreduce system /dev/md0`, перемонтруем /boot и добавляем новые диски ssd5, hdd1, hdd2.
+Далее удаляем диск старого raid из Volume Group с помощью команды `vgreduce system /dev/md0`, перемонтруем /boot и добавляем новые диски ssd5, hdd1, hdd2. При помощи `fsdisk` меняем объём раздела первого и второго диска.
 > Директория **/boot** cодержит важные файлы для процесса загрузки, включая ядро Linux
 
 ![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/2.22.png)
+
+Далее расширяем raid с помощью `pvresize /dev/md127`. 
+
+![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/2.23.png)
+
+Добавим вновь появившееся место VG var,root.
+
+Следующий этап. Создаём новый raid-массив, на HDD создаём логические тома и форматируем эти диски под ext4 с помощью `mkfs.ext4 /dev/mapper/data-var_log`.
+> **Ext4** — популярная файловая системы в Linux.
+
+![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/2.24.png)
+
+Теперь я перенёс /var/log (для этого мне пришлось монтировать временные хранилища логов , останавливать процессы и синхранизировать разделы).
+
+После этого я поправил файл fstab
+
+![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/2.25.png)
+
+Итоговый результат получился таким:
+
+![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/2.25.png)
+![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/2.26.png)
+
+**При выполнении задания №3 я научился:**
+- **менять размеры raid;**
+- **создавать новые raid массивы;**
+- **производить разметку дисков прямо в терминале;**
+- **форматировать диски в терминале.**
