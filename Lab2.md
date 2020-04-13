@@ -27,7 +27,7 @@
 
 > **RAID 1 (Mirror)**. Несколько дисков (обычно 2), работающие синхронно на запись, то есть полностью дублирующие друг друга.
 
-картинка
+![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/RAID1.jpg)
 
 Создал группу томов LVM.
 
