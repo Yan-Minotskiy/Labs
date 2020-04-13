@@ -151,8 +151,8 @@ C помощью команды `cat /proc/mdstat` я ознакомился с 
 
 Итоговый результат получился таким:
 
-![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/2.25.png)
 ![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/2.26.png)
+![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/2.27.png)
 
 **При выполнении задания №3 я научился:**
 - **менять размеры raid;**
