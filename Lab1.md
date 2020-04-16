@@ -91,7 +91,7 @@
 ### suzen19
 Используемые команды:
 - **mkdir** – команда для создания нового каталога
-  - **-f** - режим для создания подкаталогов в каталоге
+  - **-p** - режим для создания подкаталогов в каталоге
   
 ![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/19.png)
 Ключ для следующего таска: K3kzZUJWMHUvZHFqRnlUZ2NpZ3V2SkZYWjl2ZUl5SElpZkZ3NG0wQmpVST0K (не работает)
@@ -178,6 +178,7 @@
 ### suzen28
 Использовал перенаправление ввода в новый содаваемый файл.
 - **cat > diary << ENDOFFILE** - с помощью этой строки я могу вставить многострочный текст в создаваемый документ
+В конце вводим echo -n "11:32pm: Нассал под кресло. Еееееееее!" >> diary. Тогда всё заработает.
 
 
 ![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/28.png)
