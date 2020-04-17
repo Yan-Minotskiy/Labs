@@ -20,4 +20,4 @@
 - Сервис по редактированию markdown разметки (здесь я попрактиковался): https://pandao.github.io/editor.md/en.html
 - Горячие клавиши Linux (изучил и попрактиковался): https://medium.com/@bykvaadm/bash-shortcuts-d6f275a6ce9d
 
-[![](https://github.com/Yan-Minotskiy/labOS/screenshot/image.png)]()
+![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/image.png)
