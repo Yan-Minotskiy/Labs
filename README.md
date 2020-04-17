@@ -15,3 +15,9 @@
 - Linux для начинающих: https://www.youtube.com/watch?v=fAHpGshMCgQ&list=PLg5SS_4L6LYuE4z-3BgLYGkZrs-cF4Tep
 - Видеокурс по Git: https://www.youtube.com/watch?v=DK2PsTcSFFM&list=PLg5SS_4L6LYstwxTEOU05E0URTHnbtA0l
 - Урок по работе с Docker: https://www.youtube.com/watch?v=I18TNwZ2Nqg&t=2224s
+
+**Другие ресурсы:**
+- Сервис по редактированию markdown разметки (здесь я попрактиковался): https://pandao.github.io/editor.md/en.html
+- Горячие клавиши Linux (изучил и попрактиковался): https://medium.com/@bykvaadm/bash-shortcuts-d6f275a6ce9d
+
+[![](https://github.com/Yan-Minotskiy/labOS/screenshot/)](http://github.com/Yan-Minotskiy/labOS/screenshot/image.png)
