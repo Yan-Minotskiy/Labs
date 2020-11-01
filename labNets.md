@@ -1,9 +1,11 @@
-# Лабораторные работы по сетеям и основам передачи данных
+# Лабораторные работы по дисциплине "Сети и системы передачи данных"
 ## Лабораторная работа №1  - VLAN, DHCP
 
 > Коммутатор — устройство, предназначенное для соединения нескольких узлов компьютерной сети в пределах одного или нескольких сегментов сети. Коммутатор работает на канальном уровне модели OSI.
 
 > Маршрутизатор — специализированное устройство, которое пересылает пакеты между различными сегментами сети на основе правил и таблиц маршрутизации.
+
+![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/nets1.png)
 
 Настройка интерфейсов:
     
@@ -139,7 +141,10 @@ sh run - просмотр конфигурации на Cisco
 
 export - просмотр конфигурации на Mikrotik
 
-trace
+trace + ip-адрес или traceroute + ip-адрес - трассировка на Cisco
+Ctrl + Shift + 6 - завершить трассировку
+
+tool traceroute + ip-адрес - трассировка на Mikrotik
 
 
 ## Лабораторная работа №2  - Статическая маршрутизация
@@ -162,9 +167,13 @@ C-R-4
     ip route 172.160.0.0 255.255.255.0 10.20.0.2
     ip route 182.200.0.0 255.255.252.0 10.20.0.2
 
+![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/nets2.png)
 
 
 ## Лабораторная работа №3  - Динамическая маршрутизация. Протоколы RIP и OSPF
+
+![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/nets3.png)
+
 ### RIP на Cisco
     router rip
     version 2
@@ -182,6 +191,8 @@ C-R-4
     add network=213.234.11.0/30
     add network=213.234.12.0/30
     add network=213.234.13.0/30
+
+![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/nets4.png)
 
 ### OSPF на Cisco
     router ospf 1
@@ -203,6 +214,8 @@ C-R-4
     add area=backbone network=12.12.14.0/30
 
 ## Лабораторная работа №4  - Динамическая маршрутизация. Протокол BGP
+
+![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/nets5.png)
 
     router bgp 400
     bgp log-neighbor-changes
@@ -283,7 +296,11 @@ C-R-4
      ip nat enable
     !
 
+Подключение по ssh и telnet:
+
     ssh -l <username> <ip>
 
     system ssh address=<ip> user=<username>
     system telnet address=<ip> user=<username>
+
+![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/nets6.png)
