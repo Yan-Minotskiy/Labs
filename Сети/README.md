@@ -1,11 +1,15 @@
 # Лабораторные работы по дисциплине "Сети и системы передачи данных"
+## [Задания и инструкции по выполнению лабораторных работ](https://hackmd.io/@sadykovildar/B16xYzRmw)
+
+## [Полезные видеоуроки по сетевому администрированию](https://www.youtube.com/watch?v=Y4l8ScRLrf4&list=PLtPJ9lKvJ4oh_w4_jtRnKE11aqeRldCFI)
+
 ## Лабораторная работа №1  - VLAN, DHCP
 
-> Коммутатор — устройство, предназначенное для соединения нескольких узлов компьютерной сети в пределах одного или нескольких сегментов сети. Коммутатор работает на канальном уровне модели OSI.
+> **Коммутатор** — устройство, предназначенное для соединения нескольких узлов компьютерной сети в пределах одного или нескольких сегментов сети. Коммутатор работает на канальном уровне модели OSI.
 
-> Маршрутизатор — специализированное устройство, которое пересылает пакеты между различными сегментами сети на основе правил и таблиц маршрутизации.
+> **Маршрутизатор** — специализированное устройство, которое пересылает пакеты между различными сегментами сети на основе правил и таблиц маршрутизации.
 
-![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/nets1.png)
+![](../image/nets1.png)
 
 Настройка интерфейсов:
     
@@ -167,12 +171,12 @@ C-R-4
     ip route 172.160.0.0 255.255.255.0 10.20.0.2
     ip route 182.200.0.0 255.255.252.0 10.20.0.2
 
-![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/nets2.png)
+![](../image/nets2.png)
 
 
 ## Лабораторная работа №3  - Динамическая маршрутизация. Протоколы RIP и OSPF
 
-![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/nets3.png)
+![](../image/nets3.png)
 
 ### RIP на Cisco
     router rip
@@ -192,7 +196,7 @@ C-R-4
     add network=213.234.12.0/30
     add network=213.234.13.0/30
 
-![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/nets4.png)
+![](../image/nets4.png)
 
 ### OSPF на Cisco
     router ospf 1
@@ -215,7 +219,7 @@ C-R-4
 
 ## Лабораторная работа №4  - Динамическая маршрутизация. Протокол BGP
 
-![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/nets5.png)
+![](../image/nets5.png)
 
     router bgp 400
     bgp log-neighbor-changes
@@ -303,4 +307,4 @@ C-R-4
     system ssh address=<ip> user=<username>
     system telnet address=<ip> user=<username>
 
-![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/nets6.png)
+![](../image/nets6.png)

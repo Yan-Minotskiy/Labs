@@ -14,7 +14,7 @@
 | Ctrl + D   | Завершение текущего процесса  |
 | Ctrl + Alt + T  | Запустить терминал |
 
-![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/1.png)
+![](../../image/1.png)
 Ключ для следующего таска: ZGFpejZhaFJhZVNhZXhhaWJ1YWYK
 
 ------------
@@ -24,7 +24,7 @@
 - **cat \*.txt** - просмотр всех файлов с форматом txt
 -  **for i in /home/suzen/*; do cat $i; done;** - bash-скрипт, выводящий содержимое всех файлов в папке
 
-![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/2.png)
+![](../../image/2.png)
 Ключ для следующего таска: dGhlaWxpM2FoWm9odGFpM2VldzMK
 
 ------------
@@ -33,7 +33,7 @@
 Используемые команды:
 -  **while read -r l; do echo $l; done <-diary.txt-** - bash-скрипт, построчно читающий файл -diary.txt-
 
-![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/3.png)
+![](../../image/3.png)
 Ключ для следующего таска: Y284ZWlxdXVlMmllTDNpZXBoNWUK
 
 ------------
@@ -43,7 +43,7 @@
 - **cd** – переход по директориям
 - **clear** – очистка экрана
 
-![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/14.png)
+![](../../image/14.png)
 Ключ для следующего таска: d2FodmFoMWFlV2FpYmVlaG9vMmIK
 
 ------------
@@ -52,7 +52,7 @@
 Используемые команды:
 - **pwd** – выводит в терминал путь к текущей папке
 
-![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/15.png)
+![](../../image/15.png)
 Ключ для следующего таска: TWVlMXdvaDJ6YWVoZWoyamllNm8K
 
 ------------
@@ -65,7 +65,7 @@
 
 *`$USER` – переменная содержащая сведения о пользователе*
 
-![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/16.png)
+![](../../image/16.png)
 Ключ для следующего таска: ZXVsb29naG91MFBob2g4T2hkYWkK
 
 ------------
@@ -74,7 +74,7 @@
 Используемые команды:
 - **ls –a** – показать все файлы, в том числе скрытые
 
-![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/17.png)
+![](../../image/17.png)
 Ключ для следующего таска: bmVlNm1lMEhhaU11M2thaGVpNmEK
 
 ------------
@@ -83,7 +83,7 @@
 Используемые команды:
 - **man** – команда для чтения инструкции другой команды
 
-![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/18.png)
+![](../../image/18.png)
 Ключ для следующего таска: Y2hpZWNoM2VpRzRJZWtlaXNlbGUK
 
 ------------
@@ -93,7 +93,7 @@
 - **mkdir** – команда для создания нового каталога
   - **-p** - режим для создания подкаталогов в каталоге
   
-![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/19.png)
+![](../../image/19.png)
 Ключ для следующего таска: K3kzZUJWMHUvZHFqRnlUZ2NpZ3V2SkZYWjl2ZUl5SElpZkZ3NG0wQmpVST0K (не работает)
 
 ------------
@@ -103,7 +103,7 @@
 - **rm** – команда для удаления
   - **-rf** - совершить рекурсивный обход всех директорий без выдачи предупреждений
   
-![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/20.png)
+![](../../image/20.png)
 Ключ для следующего таска: YW1pZWhpaW0yb2h5NW9vRjZlaXcK
 
 ------------
@@ -112,7 +112,7 @@
 Используемые команды:
 - **touch** - команда для гинерации файлов или для изменения времени последнего взаимодействия с файлом
 
-![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/21.png)
+![](../../image/21.png)
 Ключ для следующего таска: aWU0b29XdWxlaXBodXBpZWZveW8K
 
 ------------
@@ -123,7 +123,7 @@
 Использовались регулярные выражения:
 \* означает любое количество символов на её месте, ? – один любой символ.
 
-![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/22.png)
+![](../../image/22.png)
 Ключ для следующего таска: dXI2dXNhaDNvaFQxaWV2MGNobzgK
 
 ------------
@@ -132,7 +132,7 @@
 Используемые команды:
 - **mv** - перемещение и переименовывание файлов и каталогов
 
-![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/23.png)
+![](../../image/23.png)
 Ключ для следующего таска: 
 
 ------------
@@ -142,7 +142,7 @@
 - **cp** - копирование файлов или директорий
   - **-R** - означает включение всех подкаталогов и файлов в них 
 
-![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/24.png)
+![](../../image/24.png)
 Ключ для следующего таска: YWVnaG9venVvejd2b292OHNvaEwK
 
 ------------
@@ -150,7 +150,7 @@
 ### suzen25
 Не использовал новые команды)
 
-![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/25.png)
+![](../../image/25.png)
 Ключ для следующего таска: dGhlZThhcXVpZUNpTGFpdGhlZTkK
 
 ------------
@@ -159,7 +159,7 @@
 В окне чтения файла, вызванного командой less можно осуществлять поиск с помощью \/
 
 \/FLAG дало результат:
-![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/26.png)
+![](../../image/26.png)
 
 Ключ для следующего таска: WWVpc2gxYWlndXVrZWl5ZWloaWUK
 
@@ -170,7 +170,7 @@
 - **tail** - просмотр концовки файла
   - **-f** - просматривать непрерывно
 
-![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/27.png)
+![](../../image/27.png)
 Ключ для следующего таска: dGVlMUtleThhUXVvaDFnZTFiaWkK
 
 ------------
@@ -182,7 +182,7 @@
 В конце вводим echo -n "11:32pm: Нассал под кресло. Еееееееее!" >> diary. Тогда всё заработает.
 
 
-![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/28.png)
+![](../../image/28.png)
 Ключ для следующего таска: ZWV4b1g1WnVkMm9oZnVjYWhkdTMK
 
 ------------
@@ -190,5 +190,5 @@
 ### suzen29
 Использовал стрелки на клавиатуре для выбора последней используемой команды.
 
-![](https://github.com/Yan-Minotskiy/labOS/blob/master/screenshots/29.png)
+![](../../image/29.png)
 Ключ для следующего таска: dmFvbmcwcGFlMWlodUJvaFppZWQK

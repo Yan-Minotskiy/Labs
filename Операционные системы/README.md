@@ -1,0 +1,15 @@
+# Лабораторные работы по операционным системам
+## Содержание
+- В директории [**Lab1**](./Lab1) находится готовый отчёт по лабораторной работе №1 по операционным системам (основные команды терминала Linux)
+- В директории [**Lab2**](./Lab2) содержится отчёт к лабораторной работе №2 по операционным системам (настройка работоспособной системы с использованием lvm, raid)
+- В директории [**Lab3**](./Lab3) находятся скрипты, которые решают задания suzen из первой лабораторной работы по операционным системам.
+- В директории [**docker**](./docker) хранятся все необходимые для сборки контейнера файлы.
+
+## Инструкции по выполнению лабораторных работ:
+- Лабораторные работы по операционным системам 1-4: https://github.com/bykvaadm/OS/tree/master/admin
+- Лабораторная работа по docker: https://github.com/bykvaadm/OS/tree/master/devops/docker/lab1
+
+## Видеоуроки на YouTube:
+- Linux для начинающих: https://www.youtube.com/watch?v=fAHpGshMCgQ&list=PLg5SS_4L6LYuE4z-3BgLYGkZrs-cF4Tep
+- Видеокурс по Git: https://www.youtube.com/watch?v=DK2PsTcSFFM&list=PLg5SS_4L6LYstwxTEOU05E0URTHnbtA0l
+- Урок по работе с Docker: https://www.youtube.com/watch?v=I18TNwZ2Nqg&t=2224s
