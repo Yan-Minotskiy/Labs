@@ -1,7 +1,6 @@
 import random
 import skimage
 
-# bipolar case
 class HammingNeuron:
 
     def __init__(self, weights, next_neuron=None):
@@ -306,7 +305,7 @@ if __name__ == '__main__':
     my_learning_examples = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
     my_validation_examples = ['0', '1', '5']
     my_eps = 0.3
-    max_count_of_output = 1
+    max_count_of_output = 3
     my_hamming_network = HammingNetwork([dict_of_numbers[k] for k in my_learning_examples], my_eps, max_count_of_output)
     for ex in my_validation_examples:
         print('example')
