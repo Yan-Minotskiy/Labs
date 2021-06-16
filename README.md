@@ -11,18 +11,16 @@
 * Время разработки: сентябрь 2020 - май 2021 (3 курс)  
 * Технологии: [EVE-NG](https://www.eve-ng.net/), [Cisco](https://www.cisco.com/), [Mikrotik](https://mikrotik.com/), [Linux](https://www.linux.org/) ([Kali](https://www.kali.org/), [Ubuntu](https://ubuntu.com/), [Debian](https://www.debian.org/))
 
-### Практические, лабораторные и курсовая работы по дисциплине "Клиент-серверные системы управления банком данных" 
+---
 
-**Будет добавлено в мае-июне 2021 года**
+## Завершённые
+
+### [Практические, лабораторные и курсовая работы по дисциплине "Клиент-серверные системы управления банком данных"](https://github.com/Yan-Minotskiy/postgreslab) 
 
 Применение основных методик проектирования и администрирования баз данных [PostgreSQL](https://www.postgresql.org/).
 
 * Время разработки: февраль-май 2021 (3 курс)  
-* Технологии: [PostgreSQL](https://www.postgresql.org/), [PGAdmin](https://www.pgadmin.org/), [Python](https://www.python.org/) ([Psycopg2](https://www.psycopg.org/), [Pandas](https://pandas.pydata.org/), [Iogram](https://docs.aiogram.dev/en/latest/), [Flask](https://flask.palletsprojects.com/en/2.0.x/))
-
----
-
-## Завершённые
+* Технологии: [PostgreSQL](https://www.postgresql.org/), [PGAdmin](https://www.pgadmin.org/), [Python](https://www.python.org/) ([Psycopg2](https://www.psycopg.org/), [Pandas](https://pandas.pydata.org/), [Aiogram](https://docs.aiogram.dev/en/latest/), [Flask](https://flask.palletsprojects.com/en/2.0.x/))
 
 ### [Практические работы по интеллектуальному анализу данных](./Интеллектуальный%20анализ)
 
