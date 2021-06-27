@@ -8,7 +8,7 @@
 
 Обучение принципам коммутации, маршрутизации, проектирования сетей, использования DHCP, VLAN, RIP, OSPF, BGP, NAT, SSH, GRE, L2TP, IPsec, IKEv2, OpenVPN-L3 и L2, WireGuard, MPLS.
 
-* Время разработки: сентябрь 2020 - май 2021 (3 курс)  
+* Время разработки: сентябрь 2020 - июнь 2021 (3 курс)  
 * Технологии: [EVE-NG](https://www.eve-ng.net/), [Cisco](https://www.cisco.com/), [Mikrotik](https://mikrotik.com/), [Linux](https://www.linux.org/) ([Kali](https://www.kali.org/), [Ubuntu](https://ubuntu.com/), [Debian](https://www.debian.org/))
 
 ---
@@ -19,7 +19,7 @@
 
 Применение основных методик проектирования и администрирования баз данных [PostgreSQL](https://www.postgresql.org/).
 
-* Время разработки: февраль-май 2021 (3 курс)  
+* Время разработки: февраль-июнь 2021 (3 курс)  
 * Технологии: [PostgreSQL](https://www.postgresql.org/), [PGAdmin](https://www.pgadmin.org/), [Python](https://www.python.org/) ([Psycopg2](https://www.psycopg.org/), [Pandas](https://pandas.pydata.org/), [Aiogram](https://docs.aiogram.dev/en/latest/), [Flask](https://flask.palletsprojects.com/en/2.0.x/))
 
 ### [Практические работы по интеллектуальному анализу данных](./Интеллектуальный%20анализ)
