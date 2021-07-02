@@ -1,19 +1,12 @@
 # Решения университетских работ
 
-## В разработке
-
 ### Лабораторные работы по дисциплине "Сети и системы передачи данных" 
 
-**Будет добавлено в мае-июне 2021 года**
+Обучение принципам коммутации, маршрутизации, проектирования сетей, использования [DHCP](https://github.com/Yan-Minotskiy/network_config/blob/main/VLAN%2C%20DHCP.md), [VLAN](https://github.com/Yan-Minotskiy/network_config/blob/main/VLAN%2C%20DHCP.md), [RIP](https://github.com/Yan-Minotskiy/network_config/blob/main/RIP,%20OSPF.md#rip), [OSPF](https://github.com/Yan-Minotskiy/network_config/blob/main/RIP,%20OSPF.md#ospf), [BGP](https://github.com/Yan-Minotskiy/network_config/blob/main/BGP.md), [NAT](https://github.com/Yan-Minotskiy/network_config/blob/main/SSH,%20NAT.md#nat), [SSH](https://github.com/Yan-Minotskiy/network_config/blob/main/SSH,%20NAT.md#ssh), [GRE](https://github.com/Yan-Minotskiy/network_config/blob/main/GRE.md), [L2TP](https://github.com/Yan-Minotskiy/network_config/blob/main/L2TP.md#l2tp), [IPsec](https://github.com/Yan-Minotskiy/network_config/blob/main/L2TP.md#ipsec), [IKEv2](https://github.com/Yan-Minotskiy/network_config/blob/main/IKEv2.md), [OpenVPN-L3](https://github.com/Yan-Minotskiy/network_config/blob/main/OpenVPN-L3.md) и [L2](https://github.com/Yan-Minotskiy/network_config/blob/main/OpenVPN-L2.md), [WireGuard](https://github.com/Yan-Minotskiy/network_config/blob/main/WireGuard.md), [MPLS](https://github.com/Yan-Minotskiy/network_config/blob/main/MPLS.md).
 
-Обучение принципам коммутации, маршрутизации, проектирования сетей, использования DHCP, VLAN, RIP, OSPF, BGP, NAT, SSH, GRE, L2TP, IPsec, IKEv2, OpenVPN-L3 и L2, WireGuard, MPLS.
-
-* Время разработки: сентябрь 2020 - июнь 2021 (3 курс)  
+* Время разработки: сентябрь 2020 - июль 2021 (3 курс)  
 * Технологии: [EVE-NG](https://www.eve-ng.net/), [Cisco](https://www.cisco.com/), [Mikrotik](https://mikrotik.com/), [Linux](https://www.linux.org/) ([Kali](https://www.kali.org/), [Ubuntu](https://ubuntu.com/), [Debian](https://www.debian.org/))
 
----
-
-## Завершённые
 
 ### [Практические, лабораторные и курсовая работы по дисциплине "Клиент-серверные системы управления банком данных"](https://github.com/Yan-Minotskiy/postgreslab) 
 
