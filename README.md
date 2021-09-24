@@ -1,12 +1,34 @@
 # Решения университетских работ
 
-### [Лабораторные работы по дисциплине "Сети и системы передачи данных"](https://github.com/Yan-Minotskiy/network_config)
+## В разработке
+
+### Проект по программированию средств обнаружения и защиты от вредоносных программ
+
+Разработка приложения для аналза сетевого трафика.
+
+* Время разработки: сентябрь 2021 - декабрь 2021 (4 курс)
+* Технологии: Python, Dash. PostgreSQL, Docker.
+
+### Лабораторные работы по методам и средствам защиты информации
+
+Практика применения различных инструментов из сферы информационной безопасности (Fishing, SOC, Deception, WAF).
+
+* Время разработки: сентябрь 2021 - декабрь 2021 (4 курс)
+* Технологии: Linux Ubuntu, Docker, Gophish, Elasticsearch, Logstash, Kibana, honeyTrap, ModSecurity.
+
+### Лабораторные работы по системам электронного доументооборота и теории защищённого документооборота
+
+* Время разработки: сентябрь 2021 - декабрь 2021 (4 курс)
+* Технологии: [Python](https://www.python.org/), [Bootstrap](https://getbootstrap.com/).
+
+### [Лабораторные работы по дисциплинам "Сети и системы передачи данных", "Организация компьютерных сетей" и "Организация сетевой безопасности"](https://github.com/Yan-Minotskiy/network_config)
 
 Обучение принципам коммутации, маршрутизации, проектирования сетей, использования [DHCP](https://github.com/Yan-Minotskiy/network_config/blob/main/VLAN%2C%20DHCP.md), [VLAN](https://github.com/Yan-Minotskiy/network_config/blob/main/VLAN%2C%20DHCP.md), [RIP](https://github.com/Yan-Minotskiy/network_config/blob/main/RIP,%20OSPF.md#rip), [OSPF](https://github.com/Yan-Minotskiy/network_config/blob/main/RIP,%20OSPF.md#ospf), [BGP](https://github.com/Yan-Minotskiy/network_config/blob/main/BGP.md), [NAT](https://github.com/Yan-Minotskiy/network_config/blob/main/SSH,%20NAT.md#nat), [SSH](https://github.com/Yan-Minotskiy/network_config/blob/main/SSH,%20NAT.md#ssh), [GRE](https://github.com/Yan-Minotskiy/network_config/blob/main/GRE.md), [L2TP](https://github.com/Yan-Minotskiy/network_config/blob/main/L2TP.md#l2tp), [IPsec](https://github.com/Yan-Minotskiy/network_config/blob/main/L2TP.md#ipsec), [IKEv2](https://github.com/Yan-Minotskiy/network_config/blob/main/IKEv2.md), [OpenVPN-L3](https://github.com/Yan-Minotskiy/network_config/blob/main/OpenVPN-L3.md) и [L2](https://github.com/Yan-Minotskiy/network_config/blob/main/OpenVPN-L2.md), [WireGuard](https://github.com/Yan-Minotskiy/network_config/blob/main/WireGuard.md), [MPLS](https://github.com/Yan-Minotskiy/network_config/blob/main/MPLS.md).
 
-* Время разработки: сентябрь 2020 - июль 2021 (3 курс)  
+* Время разработки: сентябрь 2020 - декабрь 2021 (3-4 курс)  
 * Технологии: [EVE-NG](https://www.eve-ng.net/), [Cisco](https://www.cisco.com/), [Mikrotik](https://mikrotik.com/), [Linux](https://www.linux.org/) ([Kali](https://www.kali.org/), [Ubuntu](https://ubuntu.com/), [Debian](https://www.debian.org/))
 
+## Завершённые проекты
 
 ### [Практические, лабораторные и курсовая работы по дисциплине "Клиент-серверные системы управления банком данных"](https://github.com/Yan-Minotskiy/postgreslab) 
 
