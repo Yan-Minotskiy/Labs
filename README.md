@@ -1,6 +1,6 @@
 # Решения университетских работ
 
-## В разработке
+## Завершённые проекты
 
 ### [Проект по программированию средств обнаружения и защиты от вредоносных программ](https://github.com/Yan-Minotskiy/B-B)
 
@@ -9,12 +9,12 @@
 * Время разработки: сентябрь 2021 - декабрь 2021 (4 курс)
 * Технологии: [Python](https://www.python.org/), [Dash](https://dash.plotly.com/), [PostgreSQL](https://postgrespro.ru/), [Docker](https://www.docker.com/), [Docker-Compose](https://docs.docker.com/compose/).
 
-### Лабораторные работы по методам и средствам защиты информации
+### [Лабораторные работы по методам и средствам защиты информации](https://github.com/Yan-Minotskiy/information_security#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B5-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BF%D0%BE-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B0%D0%BC-%D0%B8-%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0%D0%BC-%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D1%8B-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8)
 
-Практика применения различных инструментов из сферы информационной безопасности (Fishing, SOC, Deception, WAF).
+Практика применения различных инструментов из сферы информационной безопасности ([Fishing](https://github.com/Yan-Minotskiy/information_security/blob/main/Phishing.md), [SOC](https://github.com/Yan-Minotskiy/information_security/blob/main/Security%20Operations%20Center.md), [Deception](https://github.com/Yan-Minotskiy/information_security/blob/main/Deception%20Technology.md), [WAF](https://github.com/Yan-Minotskiy/information_security/blob/main/Web%20Application%20Firewall.md)).
 
 * Время разработки: сентябрь 2021 - декабрь 2021 (4 курс)
-* Технологии: Linux Ubuntu, Docker, Gophish, Elasticsearch, Logstash, Kibana, honeyTrap, ModSecurity.
+* Технологии: Linux Ubuntu, [Docker](https://www.docker.com/), Gophish, Elasticsearch, Logstash, Kibana, honeyTrap, ModSecurity.
 
 ### [Лабораторные работы по дисциплинам "Сети и системы передачи данных", "Организация компьютерных сетей" и "Организация сетевой безопасности"](https://github.com/Yan-Minotskiy/network_config)
 
@@ -22,8 +22,6 @@
 
 * Время разработки: сентябрь 2020 - декабрь 2021 (3-4 курс)  
 * Технологии: [EVE-NG](https://www.eve-ng.net/), [Cisco](https://www.cisco.com/), [Mikrotik](https://mikrotik.com/), [Linux](https://www.linux.org/) ([Kali](https://www.kali.org/), [Ubuntu](https://ubuntu.com/), [Debian](https://www.debian.org/))
-
-## Завершённые проекты
 
 ### [Практические, лабораторные и курсовая работы по дисциплине "Клиент-серверные системы управления банком данных"](https://github.com/Yan-Minotskiy/postgreslab) 
 
